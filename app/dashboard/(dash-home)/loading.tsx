@@ -1,5 +1,5 @@
 import DashboardSkeleton from "../../ui/skeletons";
 
-export default function loading() {
+export default function Loading() {
   return <DashboardSkeleton />;
 }
